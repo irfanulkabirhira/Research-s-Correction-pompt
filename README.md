@@ -1,2 +1,63 @@
-# Research-s-Correction-pompt
-This way , it helps me to find the best way to Correct the Previous Mistaken
+1st Prompt: 
+-------------
+ello Listen , I am researching on "An Explainable and Privacy-Preserving Federated Learning Framework with Conditional GAN Feature Augmentation for Brain Tumor MRI Classification" I have already Shared my Overleaf file to my Supervisor , and She recived the entire paper , and she told me to correct something, and she gave a correction's PDF , there she told just fix the correction , then she will submit the paper to Journal: 
+--- ------------------------------------------------ 
+
+So now i am giving you the Correction File that my Supervisor provided me in the attached Image, all you will do is , overview the correction and understand so well .
+
+Then i will provide you one by one Paper Abstract , Introduction , Methodolgy , Result section after all you will undertand my Entire paper , and then provide adn help me out to correct my entire paper.
+
+So now are you ready should you provide you one by one section of my paper , are you ready ????
+
+Prompt 2:
+----------
+at first listen ,  let me provide you one by one section , after all when i will say i am done , then you will help me out correcting from the Abstract to last Correction , are you ready ??? 
+
+Prompt 3 : 
+-----------
+at first , Obeserbe my Abstract , Introduction , and Literature Review , then i am providing you the rest
+
+Prompt 4 : 
+---------
+This is my Methodolgy after this , i will move to the rest section.
+
+
+Prompt 5 : 
+---------
+Now i am providing the rest of the part : 
+
+
+Prompt 6: 
+----------
+Now please start correcting from the correction 1 , let me mention that : 
+Note that : you don't have to provide me the entire section , all you will do is , will Natify me where to place what , and what to add , And More thing , after the "what to add " please also provide me the what to add got it ?? and must provide me what to add so that i can directly copy and past.
+
+where and what to do please pick the point where to add more and more accruate mentioning the subsection and paragraph .. so that i can pick where to add , and add in the perfect place
+
+let me show you how will do so , 
+✅ CORRECTION 1 (Sentence length & clarity)
+📍 Where
+Section: Abstract
+Location: First paragraph, after the sentence that ends with
+
+“...in a global context.”
+
+➕ What to ADD (copy–paste exactly)
+To address these challenges, we design a lightweight federated framework that enables collaborative learning across institutions without sharing raw patient data.
+
+
+✅ CORRECTION 2 (Avoid long chained sentences)
+📍 Where
+Section: Abstract
+Location: Replace this long sentence (exact sentence below):
+
+“To overcome the aforementioned challenges, we propose the design of a light federated learning framework named LiteGAN-FedNet (LG-FedNet), incorporating the strengths of feature augmentation through conditional GANs, feature dimensionality reduction through Principal Component Analysis (PCA), and a feature extractor component based on the popular ResNet-18 architecture for robust multi-class classification of brain cancers in a distributed medical client environment.”
+
+🔁 Replace WITH (copy–paste)
+To overcome these challenges, we propose a lightweight federated learning framework named \textbf{LiteGAN-FedNet (LG-FedNet)}. 
+The framework integrates conditional GAN-based feature augmentation, PCA-based dimensionality reduction, and a ResNet-18-based feature extractor for robust multi-class brain tumor classification in a distributed clinical environment.
+
+
+
+
+"This above way , I can Easily find where to fix , I hope you understand"
