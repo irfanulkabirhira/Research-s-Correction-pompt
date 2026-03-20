@@ -1,6 +1,6 @@
 1st Prompt: 
 -------------
-ello Listen , I am researching on "An Explainable and Privacy-Preserving Federated Learning Framework with Conditional GAN Feature Augmentation for Brain Tumor MRI Classification" I have already Shared my Overleaf file to my Supervisor , and She recived the entire paper , and she told me to correct something, and she gave a correction's PDF , there she told just fix the correction , then she will submit the paper to Journal: 
+Hello Listen , I am researching on "An Explainable and Privacy-Preserving Federated Learning Framework with Conditional GAN Feature Augmentation for Brain Tumor MRI Classification" I have already Shared my Overleaf file to my Supervisor , and She recived the entire paper , and she told me to correct something, and she gave a correction's PDF , there she told just fix the correction , then she will submit the paper to Journal: 
 --- ------------------------------------------------ 
 
 So now i am giving you the Correction File that my Supervisor provided me in the attached Image, all you will do is , overview the correction and understand so well .
